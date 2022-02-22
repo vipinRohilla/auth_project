@@ -24,6 +24,7 @@ class Authentication extends StatelessWidget {
 
   final ApplicationLoginState loginState;
   final String? email;
+  
   final void Function() startLoginFlow;
   final void Function(
     String email,
@@ -55,7 +56,7 @@ class Authentication extends StatelessWidget {
                 onPressed: () {
                   startLoginFlow();
                 },
-                child: const Text('RSVP'),
+                child: const Text('Login'),
               ),
             ),
           ],

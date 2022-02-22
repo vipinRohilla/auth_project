@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "273748255220",
+    "project_id": "fir-flutter-step02",
+    "storage_bucket": "fir-flutter-step02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273748255220:android:77e0bab582e0463d3f59a1",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273748255220-9qvrasbu0uh1ha74lia05tgdalcl80p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-ElJBPN5oRgo1PqgPNpgxlABR9IjaRVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273748255220-9qvrasbu0uh1ha74lia05tgdalcl80p4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "273748255220-nsqdpa4fn6laatea1g7sd8cp4k6a6pp3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gtkFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
